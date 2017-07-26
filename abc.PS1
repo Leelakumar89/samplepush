@@ -1,0 +1,1 @@
+﻿write-host "sample test message" 
